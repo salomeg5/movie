@@ -28,11 +28,10 @@ a:hover {
 }
 
 body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
+  height: 100vh;
+  background-color: #131520;
   min-height: 100vh;
+
 }
 
 h1 {
