@@ -40,7 +40,7 @@ return (
         <div className='flex  gap-8 items-center'>
         <img src={logo} className='w-[80px]
         md:w-[115px] object-cover' />
-        <div className='hidden md:flex gap-8 duration-300'>
+        <div className='hidden md:flex gap-8'>
         {menu.map((item,index)=>(
             <HeaderItem key={index} name={item.name} Icon={item.icon} />
         ))}
