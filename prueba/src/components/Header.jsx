@@ -60,7 +60,7 @@ return (
             </div>
         </div>
         </div>
-        <img src="https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745"
+        <img src="https://whatsondisneyplus.com/wp-content/uploads/2021/02/wanda-icon.png.webp"
         className='w-[40px] rounded-full'/>
     </div>
 )
