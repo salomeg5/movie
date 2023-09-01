@@ -11,7 +11,7 @@ function Header() {
     const [toggle,setToggle]=useState(false);
     const menu=[
         {
-            name:'Ningpo',
+            name:'Inicio',
             icon:HiHome
         },
         {
